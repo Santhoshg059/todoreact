@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap");
+* {
+  margin: 0%;
+  padding: 0;
+  
+}
+body {
+  font-family: "DM Sans", sans-serif !important;
+}
+h3{
+  text-align: center;
+}
+.todoname{
+  border: 1px solid black !important;
+}
+.tododesp{
+  border: 1px solid black !important;
+}
+.cardsorder{
+  margin-top: 2%;
+  margin-left: 52px !important;
+  margin-right: 0vw !important;
+  
+}
+.sts{
+  display:flex !important;
+  white-space: pre-wrap !important;
+}
+.stsselect{
+  width: 50% !important;
+  
+}
+.editbtn{
+  margin-left: 50% !important;
+}
+.filterDropdown{
+  margin-bottom: 2% !important;
+  width: 2% !important;
+  float: right !important;
+  background-color: cadetblue !important;
+  
+}
